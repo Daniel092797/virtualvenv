@@ -1,0 +1,16 @@
+footer {
+    background-color: black;
+    width: 90%;
+    height: 100px;
+    margin-left: 5px;
+    border-radius: 32px;
+    margin-top: 30px;
+    box-shadow: 12px 12px 20px rgb(26, 25, 25)
+}
+footer h1{
+    color: aquamarine;
+    font-size: 36px;
+    text-align: center;
+    line-height: 100px;
+    text-shadow: 8px 8px 20px #ddd9d9;
+}
